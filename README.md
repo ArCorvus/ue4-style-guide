@@ -360,9 +360,9 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
-| Paper Flipbook          | PFB_       |            |                                  |
-| Sprite                  | SPR_       |            |                                  |
-| Sprite Atlas Group      | SPRG_      |            |                                  |
+| Paper Flipbook          | FB_        |            |                                  |
+| Sprite                  | SP_        |            |                                  |
+| Sprite Atlas Group      | SPG_       |            |                                  |
 | Tile Map                | TM_        |            |                                  |
 | Tile Set                | TS_        |            |                                  |
 
